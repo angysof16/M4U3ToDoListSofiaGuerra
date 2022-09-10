@@ -7,4 +7,4 @@
 Realizar una Aplicación To Do List con funcionalidades de Agregar, Actualizar y Eliminar los ítems (trabajos realizados, cursos, referencias personales). Debe ser interactiva en el Navegador.
 <p> </p>
 
-<a href="url"><img src="https://user-images.githubusercontent.com/61593038/189460754-989a144c-7c51-4cff-b715-797fb4ed0a93.jpg" align="left" height="250" width="200" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/61593038/189460754-989a144c-7c51-4cff-b715-797fb4ed0a93.jpg" align="left" height="300" width="300" ></a>
